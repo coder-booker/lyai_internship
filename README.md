@@ -1,1 +1,0 @@
-Collaborate with Windows Task Scheduler and app for Cloud Drive Desktop (such as Google Drive desktop and OneDrive Desktop), regularly download file to local folder and upload file from local folder. 
